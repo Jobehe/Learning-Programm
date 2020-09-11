@@ -1,6 +1,6 @@
-import time
 
-print ()
+
+print
 
 
 ' Das ist ein Test'
